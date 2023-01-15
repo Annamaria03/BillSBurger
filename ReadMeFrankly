@@ -1,0 +1,30 @@
+NutShell Text:
+
+I had been coding for about two years before my aprox. two or more gap years at software development.
+Sooo now, since I have very strong reason to ... personal swamp..leave it at this stage, please.
+
+Anyway, the point is, last month I sat down to find out what left from that expanding knowledge I was building up at that time,
+and this is the first result of it.
+A Bill's Burger "app" challenged by Tim Buchalka (one of my favourite).
+
+Well:
+-I went for Abstract Factory Pattern as you can see on the UML diagram.
+-Useful to know, it's a frame idea of burger selling application.
+-I was trying to apply my dusty knowledge from Clean Code by Robert C Martin... I know , i know... I see my app BUT!*...
+
+Further future:
+My idea is to implement buttons instead of typing (obviously)...
+Pimp a funky front-end design and displaying texts, - very important marketing trick, good talk.. ! -.
+Store the sold items in database; I guess I will go for Mongo-Bongo. If you don't funky my Mongo-Bong, then I can be also Mongo DB.
+Even I might want to go for building a DB storage to work from..
+The road is long, I keep on dusting off my knowledge**, advancing in it, while trying to spare time on this project
+beside my main duty: aka working for balancing my bills and trying to die.. (funny, right?! I know.. indeed.. )
+
+*Honestly, I like this app; since I haven't been coding for a long-long time and this application runs and makes me smile.
+At the other hand, I'm not going to start revealing my great "Pains" regarding this app.
+Things like what could have been better at this stage, but I need to move one with my studies.
+The goal has been achieved, I flexed to myself.
+(imagine: after-work 3-4h coding sessions, days 8-9)
+**like maven, apache TomCat, databases, js, html, cs.. ALGORITHMS
+
+NoXoXo..me
